@@ -1,7 +1,7 @@
 # theme: plainwhite
-title: Kunyoung Lee (CV)
-author: KYL92
-email: guy9284@gmail.com
+title: Seung Min Jeong (CV)
+author: Oppo-sit
+email: 202333025@sangmyung.kr
 description: > # this means to ignore newlines until "show_exerpts:"
   A Docs Site For Curriculum Vitae
 show_excerpts: true # set to true to show excerpts on the homepage
@@ -11,16 +11,16 @@ future: true
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
 sass:
   sass_dir: _sass
-  
+
 # notion:
 #   pages:
 #     - id: 838177043c474405bcbc09826a13153b
-  # databases:
-  #   - id: 838177043c474405bcbc09826a13153b
+# databases:
+#   - id: 838177043c474405bcbc09826a13153b
 
 plainwhite:
-  name: Kunyoung Lee
-  tagline: Ph.D. Researcher in AI, Machine Learning, Affective Computing, etc.
+  name: Seungmin Jeong
+  tagline: Ph.D. student in AI, Machine Learning, Medical Computing, etc.
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
   search: true # set to true to enable searchbar
@@ -34,9 +34,9 @@ plainwhite:
   # generate social links in footer
   social_links:
     # twitter: KYL92
-    email: guy9284@gmail.com
-    github:  KYL92
-    youtube: /@user-jf9ru4vb3q
+    email: 202333025@sangmyung.kr
+    github: Oppo-sit
+    # youtube: /@user-jf9ru4vb3q
     # linkedIn: KYL92
     #dribbble: jekyll
     #flickr:   jekyll
@@ -48,7 +48,6 @@ plainwhite:
     #gitlab: jekyll
 
   navigation:
-
     - title: Home
       url: "http://kyl92.github.io"
     - title: Publications
@@ -60,7 +59,7 @@ plainwhite:
     - title: Demo
       url: http://kyl92.github.io/#:~:text=2020%20~%20Jun.%202020-,Demo,-(youtube)
     - title: Posts
-      url: 
+      url:
 
     # - title: Home
     #   url: "http://127.0.0.1:4000"
@@ -73,7 +72,7 @@ plainwhite:
     # - title: Demo
     #   url: http://127.0.0.1:4000/#:~:text=2020%20~%20Jun.%202020-,Demo,-(youtube)
     # - title: Posts
-    #   url: 
+    #   url:
 
     # Mastodon instances
     # mastodon:
