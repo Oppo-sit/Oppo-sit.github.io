@@ -49,15 +49,15 @@ plainwhite:
 
   navigation:
     - title: Home
-      url: "http://kyl92.github.io"
+      url: "https://oppo-sit.github.io/"
     - title: Publications
-      url: http://kyl92.github.io/#:~:text=Eui%20Chul%20Lee-,Publications,-%5BGoogle%20Scholar
+      url: https://oppo-sit.github.io/#:~:text=Eui%20Chul%20Lee-,Publications,-%5BGoogle%20Scholar
     - title: Patents
-      url: http://kyl92.github.io/#:~:text=2021.11.23%20~%202021.11.30%2C%20%EC%98%A8%EB%9D%BC%EC%9D%B8.-,Patents,-%5Bpr.smu
+      url: https://oppo-sit.github.io/#:~:text=2021.11.23%20~%202021.11.30%2C%20%EC%98%A8%EB%9D%BC%EC%9D%B8.-,Patents,-%5Bpr.smu
     - title: Projects
-      url: http://kyl92.github.io/#:~:text=%EC%9D%B4%EA%B1%B4%EC%98%81%2C%20%EA%B9%80%EC%98%81%EC%9B%90)-,Research%20Projects,-Grant%20(9%EA%B1%B4
+      url: https://oppo-sit.github.io/#:~:text=%EC%9D%B4%EA%B1%B4%EC%98%81%2C%20%EA%B9%80%EC%98%81%EC%9B%90)-,Research%20Projects,-Grant%20(9%EA%B1%B4
     - title: Demo
-      url: http://kyl92.github.io/#:~:text=2020%20~%20Jun.%202020-,Demo,-(youtube)
+      url: https://oppo-sit.github.io/#:~:text=2020%20~%20Jun.%202020-,Demo,-(youtube)
     - title: Posts
       url:
 
